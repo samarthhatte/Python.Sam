@@ -1,0 +1,10 @@
+x = "Hellow world" # str
+x = 20             # int
+x = 20.5           # float
+x = 1j             # complex 
+x = ["apple", "banana", "cherry"]
+x = ("apple", "banana", "cherry")
+x = range(6)
+x = {"Name" : "Samarth" , "Age" : 19}
+x = {"Apple" , "banana" , "cherry"}
+x = 
